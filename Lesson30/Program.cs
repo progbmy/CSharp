@@ -18,7 +18,7 @@ namespace Lesson30
 
            // myArray[0, 2] = 99; // Помещаем значение в ячейку массива
             
-            Console.WriteLine(myArray[0, 2]); // Считывем значение ячейки массива
+            Console.WriteLine(myArray[0, 3]); // Считывем значение ячейки массива
             
 
         }
