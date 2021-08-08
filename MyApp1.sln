@@ -103,13 +103,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson50", "Lesson50\Lesson
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LEsson51", "LEsson51\LEsson51.csproj", "{F66F3DBE-0619-4E7F-82DF-3295257F2917}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson52", "Lesson52\Lesson52.csproj", "{F8066103-820F-4C23-8F93-5EB8BF3AD2EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson52", "Lesson52\Lesson52.csproj", "{F8066103-820F-4C23-8F93-5EB8BF3AD2EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson53", "Lesson53\Lesson53.csproj", "{7068127A-4465-438A-9BB2-FDE6BB79E19A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson53", "Lesson53\Lesson53.csproj", "{7068127A-4465-438A-9BB2-FDE6BB79E19A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson54", "lesson54\lesson54.csproj", "{862871A9-B17D-405A-B423-E22FA3550636}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson54", "lesson54\lesson54.csproj", "{862871A9-B17D-405A-B423-E22FA3550636}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LEsson55_oop", "LEsson55_oop\LEsson55_oop.csproj", "{77E493A1-1C93-4B5C-AF52-66DBF26B6CE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LEsson55_oop", "LEsson55_oop\LEsson55_oop.csproj", "{77E493A1-1C93-4B5C-AF52-66DBF26B6CE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson56", "Lesson56\Lesson56.csproj", "{2E31BCCB-77BC-40CF-A225-D6B05040B00A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +335,10 @@ Global
 		{77E493A1-1C93-4B5C-AF52-66DBF26B6CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77E493A1-1C93-4B5C-AF52-66DBF26B6CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77E493A1-1C93-4B5C-AF52-66DBF26B6CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E31BCCB-77BC-40CF-A225-D6B05040B00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E31BCCB-77BC-40CF-A225-D6B05040B00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E31BCCB-77BC-40CF-A225-D6B05040B00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E31BCCB-77BC-40CF-A225-D6B05040B00A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
